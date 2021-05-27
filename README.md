@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on my coding and web development skills
-- 🌱 I’m currently learning Web Development using React
+- 🌱 I’m currently learning Web Development using React and Web Designing 
 - 👯 I’m open to a 2-month long intership, starting from June 2021
 - 💬 Ask me about React.js / PHP / SQL
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aryan-kabra-840848193/), [Discord](https://discord.com/channels/@me)
